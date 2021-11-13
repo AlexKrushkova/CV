@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 header {
-    background-color: #3F86B5
+    background-color: #4f96c5
     ;
     display: flex;
     flex-direction: column;
@@ -92,7 +92,7 @@ h3 {
     height: 80px;
 }
 main {
-    background-color: #3F86B5
+    background-color: #4f96c5
     ;
 }
 #name {
@@ -122,11 +122,11 @@ main {
 }
 .bodyWrapper::-webkit-scrollbar-track {
     background: white;
-    border: 2px solid #3F86B5
+    border: 2px solid #4f96c5
     ;
 }
 .bodyWrapper::-webkit-scrollbar-thumb {
-    background: #3F86B5
+    background: #4f96c5
     ;
     border-radius: 2px;
 }
@@ -136,7 +136,7 @@ main {
 }
 
 .flag {
-    background-color: #052955;
+    background-color: #4f96c5;
     width: 350px;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -157,7 +157,7 @@ main {
     display: flex;
     flex-direction: column;
     padding-bottom: 5px;
-    border-bottom: 2px solid #3F86B5
+    border-bottom: 2px solid #4f96c5
     ;
 }
 .exp p {
@@ -321,7 +321,7 @@ li {
 }
 
 .one {
-    background-color: #3F86B5    ;
+    background-color: #4f96c5    ;
     height: 15px !important;
     width: 85%;
     border-top-left-radius: 5px;
